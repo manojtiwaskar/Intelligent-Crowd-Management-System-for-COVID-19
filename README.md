@@ -29,8 +29,8 @@ In the following example, we have checked the Restaurant Live Status for the che
 ![Example of LiveUpdates of queried Restaurant](./Images/QueriedDestination.png)
 
 In the map we have used the following markers to help the user to identify the status of safeness of the location the user wants to visit and the recommended locations. Following are the importance of the each colored marker in the map:
-1. ![Green Marker](./Images/greenMarker.jpg)Represents a very safe place to visit.
-2. ![Yellow Marker](./Images/yellowMarker.jpg)Represents a safe place to visit.
+1. ![Green Marker](./Images/greenMarker.png)Represents a very safe place to visit.
+2. ![Yellow Marker](./Images/yellowMarker.png)Represents a safe place to visit.
 3. ![Red Marker](http://www.google.com/mapfiles/marker.png) Represents unsafe and hard to maintain social distancing.
 4. ![Green Arrow](http://maps.google.com/mapfiles/arrow.png) Represents the location which user has selected to visit.
 
