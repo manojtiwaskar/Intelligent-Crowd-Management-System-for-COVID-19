@@ -22,4 +22,20 @@ We have used Google cloud platform for the cloud service needed for hosting our 
 
 ![Live System on Google cloud](https://github.com/manojtiwaskar/Intelligent-Crowd-Management-System-for-COVID-19/tree/master/Images/AnalyticsAppTier.png)
 
+### Quick example of system
+
+In the following example, we have checked the Restaurant Live Status for the cheesecake factory, in Chandler, AZ and selected the range of 1 mile for recommendation of other restaurants. We found that Live status and expected future status of the desired location is correctly labelled and properly pinned in the map. Also, the recommended locations are correctly ranked based on the Safeness and the opening status of the restaurant.
+
+![Example of LiveUpdates of queried Restaurant](https://github.com/manojtiwaskar/Intelligent-Crowd-Management-System-for-COVID-19/tree/master/Images/QueriedDestination.png)
+
+In the map we have used the following markers to help the user to identify the status of safeness of the location the user wants to visit and the recommended locations. Following are the importance of the each colored marker in the map:
+![Green Marker](https://github.com/manojtiwaskar/Intelligent-Crowd-Management-System-for-COVID-19/tree/master/Images/greenMarker.png)Represents a very safe place to visit.
+![Yellow Marker](https://github.com/manojtiwaskar/Intelligent-Crowd-Management-System-for-COVID-19/tree/master/Images/yellowMarker.png)Represents a safe place to visit.
+![Red Marker](http://www.google.com/mapfiles/marker.png) Represents unsafe and hard to maintain social distancing.
+![Green Arrow](http://maps.google.com/mapfiles/arrow.png) Represents the location which user has selected to visit.
+
+![LiveUpdates of queried Restaurant and recommendation](https://github.com/manojtiwaskar/Intelligent-Crowd-Management-System-for-COVID-19/tree/master/Images/LiveUpdateOfDestination.png)
+
+
+
 
